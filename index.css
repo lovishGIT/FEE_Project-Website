@@ -1,0 +1,28 @@
+
+/*navbar*/
+#Nav1-Nav {
+  font-weight: 500;
+}
+.navbar-brand {
+  font-size: 2rem;
+}
+.ls-ele-2 {
+  font-weight: bold;
+}
+.nav-bg-clr {
+  background-color: #e9d9f4;
+}
+/*Huge-text*/
+#sec-startup {
+  padding: 7% 5%;
+  background-color: lavender;
+}
+.image-start {
+  width: 300px;
+  margin: 2px auto;
+}
+.image-tirange {
+  height: 195px;
+}
+/*features*/
+
